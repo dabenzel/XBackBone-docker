@@ -1,4 +1,4 @@
-FROM webdevops/php-nginx:alpine-php7
+FROM webdevops/php-nginx:8.0-alpine
 MAINTAINER Pietro Marangon <pietro@marangon.me>
 
 ARG XBACKBONE_VERSION=3.5.0
